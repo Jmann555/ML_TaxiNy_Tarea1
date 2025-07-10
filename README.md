@@ -1,3 +1,19 @@
+# Tarea N°1 DESARROLLO DE PROYECTOS Y PRODUCTOS DE DATOS
+
+
+<div>
+<img src="https://i.ibb.co/v3CvVz9/udd-short.png" width="150"/>
+    <br>
+    <strong>Universidad del Desarrollo</strong><br>
+    <em>Profesor: Alonso Astroza </em><br>
+
+</div>
+
+*10 de Julio de 2025*
+
+**Nombre Estudiante**:  
+    - Julio Assmann Segura  
+
 # Tarea1_Julio_Assmann
 
 # Clasificador de Propinas para Viajes en Taxi en NYC (2020)
@@ -51,6 +67,7 @@ Para poder ejecutar el entrenamiento, testeo y ver conclusiones debe ejecutar lo
 
 ```bash
 pip install -r requirements.txt
+
 
 
 
